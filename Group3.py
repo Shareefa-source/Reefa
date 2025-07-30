@@ -20,7 +20,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 import joblib
 
-logo = Image.open('C:/Users/ander/OneDrive/Documents/PycharmProject/9606bb20-a127-4abe-88f6-3b50a0921f78.png')
+logo = Image.open('logo.jpg')
 st.image(logo)
 
 st.title('Customer Churn Prediction')
